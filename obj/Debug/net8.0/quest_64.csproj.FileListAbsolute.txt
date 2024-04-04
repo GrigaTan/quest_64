@@ -1,0 +1,14 @@
+C:\Users\79203\Documents\Git\quest_64\bin\Debug\net8.0\quest_64.exe
+C:\Users\79203\Documents\Git\quest_64\bin\Debug\net8.0\quest_64.deps.json
+C:\Users\79203\Documents\Git\quest_64\bin\Debug\net8.0\quest_64.runtimeconfig.json
+C:\Users\79203\Documents\Git\quest_64\bin\Debug\net8.0\quest_64.dll
+C:\Users\79203\Documents\Git\quest_64\bin\Debug\net8.0\quest_64.pdb
+C:\Users\79203\Documents\Git\quest_64\obj\Debug\net8.0\quest_64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79203\Documents\Git\quest_64\obj\Debug\net8.0\quest_64.AssemblyInfoInputs.cache
+C:\Users\79203\Documents\Git\quest_64\obj\Debug\net8.0\quest_64.AssemblyInfo.cs
+C:\Users\79203\Documents\Git\quest_64\obj\Debug\net8.0\quest_64.csproj.CoreCompileInputs.cache
+C:\Users\79203\Documents\Git\quest_64\obj\Debug\net8.0\quest_64.dll
+C:\Users\79203\Documents\Git\quest_64\obj\Debug\net8.0\refint\quest_64.dll
+C:\Users\79203\Documents\Git\quest_64\obj\Debug\net8.0\quest_64.pdb
+C:\Users\79203\Documents\Git\quest_64\obj\Debug\net8.0\quest_64.genruntimeconfig.cache
+C:\Users\79203\Documents\Git\quest_64\obj\Debug\net8.0\ref\quest_64.dll
